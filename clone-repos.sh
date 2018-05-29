@@ -13,5 +13,4 @@ do
     git clone --branch open-release/ginkgo.master $repo
 done
 
-mkdir edx-themes
 mkdir src
